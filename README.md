@@ -1,4 +1,4 @@
-# Antidepressant_discontinuation
+# Antidepressant Discontinuation
 
 I am pleased to make available the codes and datasets from our research paper, "A Risk Identification Model for Detection of Patients at Risk of Antidepressant Discontinuation".
 
@@ -6,7 +6,8 @@ The two codes, "Descriptive_information.ipynb" and "Classification_DXD-stop_3_fe
 
 Do remember that to gain access to all the folders, you need to execute the below command within the aforementioned codes.
 
+```bash
 !git clone https://github.com/zonour97/Antidepressant_discontinuation.git
-
+```
 
 I trust that this GitHub repository will prove beneficial to everyone.
