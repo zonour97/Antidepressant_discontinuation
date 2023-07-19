@@ -1,4 +1,4 @@
-## Antidepressant Discontinuation
+# Antidepressant Discontinuation
 
 I am pleased to make available the codes and datasets from our research paper,
 
